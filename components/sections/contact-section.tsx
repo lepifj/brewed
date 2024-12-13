@@ -16,9 +16,9 @@ export function ContactSection() {
           viewport={{ once: true }}
           className="text-center max-w-2xl mx-auto"
         >
-          <h2 className="text-4xl font-bold mb-6">Let's Create Together</h2>
+          <h2 className="text-4xl font-bold mb-6">Let us Create Together</h2>
           <p className="text-gray-400 mb-8">
-            Whether you're a private collector, dealership, or manufacturer, I'm here to bring your vision to life.
+            Whether you are a private collector, dealership, or manufacturer, I am here to bring your vision to life.
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <Button asChild size="lg">
